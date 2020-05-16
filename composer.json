@@ -1,0 +1,31 @@
+{
+    "name": "alerrandrorm/laravel-lang",
+    "description": "Tradução PT-BR Laravel 5, 6, 7",
+    "keywords": [
+        "laravel",
+        "languages",
+        "lpm",
+        "lang"
+    ],
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "AlerrandroRM",
+            "email": "alerrandrorm@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Alerrandrorm\\LaravelLang\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Alerrandrorm\\LaravelLang\\LaravelLangServiceProvider"
+            ]
+        }
+    }
+}
