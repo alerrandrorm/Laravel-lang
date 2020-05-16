@@ -1,12 +1,7 @@
 {
     "name": "alerrandrorm/laravel-lang",
     "description": "Tradução PT-BR Laravel 5, 6, 7",
-    "keywords": [
-        "laravel",
-        "languages",
-        "lpm",
-        "lang"
-    ],
+    "keywords": ["laravel", "languages", "lpm", "lang"],
     "license": "GPL-3.0-or-later",
     "authors": [
         {
